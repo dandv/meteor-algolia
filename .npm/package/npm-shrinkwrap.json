@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "algolia-search": {
+      "version": "1.7.5",
+      "dependencies": {
+        "underscore": {
+          "version": "1.4.4"
+        },
+        "agentkeepalive": {
+          "version": "0.1.5"
+        },
+        "buffers": {
+          "version": "0.1.1"
+        }
+      }
+    }
+  }
+}
